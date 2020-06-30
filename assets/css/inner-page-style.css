@@ -1,0 +1,18 @@
+.oact-middle-image {
+	width: 195px;
+	height: 195px;
+	border: 2px solid #bfd1d9;
+	border-radius: 100%;
+	display: inline-block;
+	overflow: hidden;
+
+}
+.oact-text h2 {
+	float: left;
+	width: 100%;
+	color: #666666;
+	font-size: 24px;
+	font-weight: lighter;
+	margin: 0px;
+	padding: 30px 0px;
+}
